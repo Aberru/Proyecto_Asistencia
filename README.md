@@ -1,1 +1,1 @@
-# estructura_datos_algoritmos
+# Fundamentos de Programación 2
